@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ESP_Radio_Control_Application</string>
+    <string name="On_Button">On</string>
+    <string name="Off_Button">Off</string>
+    <string name="Increase_volume_Button">Increase_volume</string>
+    <string name="Decrease_volume_Button">Decrease_volume</string>
+    <string name="Next_preset_Button">Next_Station</string>
+    <string name="Previous_preset_Button">Previous_Station</string>
+    <string name="Station_Button">Station_Button</string>
+    <string name="Get_Station">Get_Station</string>
+    <string name="SP_437_Martynenko_O_V_Device_Management_Application">SP_437_Martynenko_O_V_Device_Management_Application</string>
+    <string name="Radio_Control_Application">Radio_Control_Application</string>
+</resources>
